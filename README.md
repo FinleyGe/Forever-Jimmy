@@ -5,10 +5,7 @@ I am Forever-Jimmy, or Finley.
 I am a student in Zhejiang  University of Technology.
 A lover of STEM.
 
-I'm currently working for the test.
 I'm curretly learning golang, flutter, vue and so on.
-
-Contract me!
 
 <!--
 **Forever-Jimmy/Forever-Jimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
